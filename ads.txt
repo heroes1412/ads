@@ -12,6 +12,7 @@
 127.0.0.1 track.adsturm.com
 127.0.0.1 cdn.appnext.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 ads.flurry.com
 127.0.0.1 iapclick.gowadogo.com
 127.0.0.1 cdnegc.trafficfactory.biz
 127.0.0.1 global.appnext.com
