@@ -7,6 +7,8 @@
 127.0.0.1 movies.netflix.com
 127.0.0.1 t.ants.vn
 127.0.0.1 ants.vn
+127.0.0.1 static.criteo.net
+127.0.0.1 cas.criteo.net
 127.0.0.1 v9banners.com
 127.0.0.1 tracking.appleadstech.com
 127.0.0.1 track.adsturm.com
