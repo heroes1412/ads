@@ -390,3 +390,6 @@
 127.0.0.1 metrics.adnetwork.vn
 127.0.0.1 z.moatads.com
 127.0.0.1 moatads.com
+127.0.0.1 svastx.moatads.com
+127.0.0.1 api.peer5.com
+127.0.0.1 d3.blueseed.tv
