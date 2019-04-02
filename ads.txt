@@ -393,3 +393,5 @@
 127.0.0.1 svastx.moatads.com
 127.0.0.1 api.peer5.com
 127.0.0.1 d3.blueseed.tv
+127.0.0.1 s-img.steepto.com
+127.0.0.1 img.steepto.com
