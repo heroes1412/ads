@@ -373,6 +373,7 @@
 127.0.0.1 media.yomedia.vn
 127.0.0.1 api.cloudmobi.net
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 vn-platform.bidgear.com
 127.0.0.1 doubleclick.net
 127.0.0.1 www.googletagservices.com
 127.0.0.1 googletagservices.com
