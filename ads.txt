@@ -407,3 +407,6 @@
 127.0.0.1 zone.uniad.vn
 127.0.0.1 zplayer-trk.zdn.vn
 127.0.0.1 zplayer.trk.zapps.vn
+127.0.0.1 znews-video.zadn.vn
+127.0.0.1 zadn.vn
+127.0.0.1 log.news.zing.vn
