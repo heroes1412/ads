@@ -100,6 +100,7 @@
 127.0.0.1 c.admob.com
 127.0.0.1 c.blueserving.com
 127.0.0.1 c.eclick.vn
+127.0.0.1 s-img.mgid.com
 127.0.0.1 c.snnd.co
 127.0.0.1 cas.criteo.net
 127.0.0.1 catalog.qc.coccoc.com
