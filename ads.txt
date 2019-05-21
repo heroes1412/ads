@@ -1,6 +1,7 @@
 127.0.0.1 123c.vn
 127.0.0.1 a.admob.com
 127.0.0.1 a.blueserving.com
+127.0.0.1 pubpress.net
 127.0.0.1 ac.adpia.vn
 127.0.0.1 access.adblox.net
 127.0.0.1 ad-hcm.24hstatic.com
