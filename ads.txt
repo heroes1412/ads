@@ -7,6 +7,8 @@
 127.0.0.1 access.adblox.net
 127.0.0.1 ad-hcm.24hstatic.com
 127.0.0.1 ad-hn.24hstatic.com
+127.0.0.1 gcdn.2mdn.net
+127.0.0.1 2mdn.net
 127.0.0.1 ad.24h.com.vn
 127.0.0.1 ad.ants.vn
 127.0.0.1 ad.doubleclick.net
