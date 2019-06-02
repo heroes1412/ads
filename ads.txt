@@ -114,7 +114,6 @@
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.appnext.com
 127.0.0.1 cdn.comedia.coccoc.com
-127.0.0.1 cdn.fbsbx.com
 127.0.0.1 cdn.takataka.coccoc.com
 127.0.0.1 cdnegc.trafficfactory.biz
 127.0.0.1 click.adpia.vn
