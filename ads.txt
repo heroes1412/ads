@@ -218,7 +218,6 @@
 127.0.0.1 logging.galaxypub.vn
 127.0.0.1 logging.phunuonline.com.vn
 127.0.0.1 logv2.mp3.zing.vn
-127.0.0.1 lookaside.fbsbx.com
 127.0.0.1 lrc.nct.nixcdn.com
 127.0.0.1 m.ambientplatform.vn
 127.0.0.1 mail.adpia.vn
