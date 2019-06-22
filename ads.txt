@@ -5,6 +5,11 @@
 127.0.0.1 ac.adpia.vn
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 access.adblox.net
+127.0.0.1 clipbongda.info
+127.0.0.1 cdn.onesignal.com
+127.0.0.1 onesignal.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 scorecardresearch.com
 127.0.0.1 ad-hcm.24hstatic.com
 127.0.0.1 ad-hn.24hstatic.com
 127.0.0.1 gcdn.2mdn.net
