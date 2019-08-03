@@ -3,6 +3,7 @@
 127.0.0.1 a.blueserving.com
 127.0.0.1 pubpress.net
 127.0.0.1 ac.adpia.vn
+127.0.0.1 myfastcdn.com
 127.0.0.1 vls.adsparc.com
 127.0.0.1 platform.adsparc.com
 127.0.0.1 publisher.adsparc.com
