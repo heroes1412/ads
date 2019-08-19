@@ -1,5 +1,8 @@
 127.0.0.1 123c.vn
 127.0.0.1 a.admob.com
+127.0.0.1 ssl.cdne.cpmstar.com
+127.0.0.1 cdne.cpmstar.com
+127.0.0.1 media.jxf88.com
 127.0.0.1 a.blueserving.com
 127.0.0.1 pubpress.net
 127.0.0.1 ac.adpia.vn
@@ -91,17 +94,12 @@
 127.0.0.1 analytics.bkav.com
 127.0.0.1 analytics.yomedia.vn
 127.0.0.1 ants.vn
-127.0.0.1 api-global.netflix.com
-127.0.0.1 api-public.netflix.com
-127.0.0.1 api-us.netflix.com
-127.0.0.1 api-user.netflix.com
 127.0.0.1 api.admedx.com
 127.0.0.1 api.adtimaserver.vn
 127.0.0.1 api.app.masoffer.net
 127.0.0.1 api.catch.gift
 127.0.0.1 api.cloudmobi.net
 127.0.0.1 api.leadbolt.net
-127.0.0.1 api.netflix.com
 127.0.0.1 api.peer5.com
 127.0.0.1 api.sdk.zadn.vn
 127.0.0.1 apinas.nct.vn
@@ -127,7 +125,6 @@
 127.0.0.1 c.snnd.co
 127.0.0.1 cas.criteo.net
 127.0.0.1 catalog.qc.coccoc.com
-127.0.0.1 cbp-us.nccp.netflix.com
 127.0.0.1 cdn1.coccoc.com
 127.0.0.1 cdn-qc.coccoc.com
 127.0.0.1 cdn.adtrue.com
