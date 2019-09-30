@@ -309,8 +309,6 @@
 127.0.0.1 quangcao.thanhnien.vn
 127.0.0.1 quangcao.tuoitre.vn
 127.0.0.1 r.l.admob.com
-127.0.0.1 redirects-eu.nccp.netflix.com
-127.0.0.1 redirects-us.nccp.netflix.com
 127.0.0.1 retagro.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s1.2mdn.net
@@ -323,7 +321,6 @@
 127.0.0.1 s.tuoitre.vn
 127.0.0.1 s.update.fbsbx.com
 127.0.0.1 secure-ds.serving-sys.com
-127.0.0.1 secure.netflix.com
 127.0.0.1 service.admedx.com
 127.0.0.1 services.adblox.net
 127.0.0.1 serving-ad.tv24.vn
@@ -331,7 +328,6 @@
 127.0.0.1 share.cdn.viber.com
 127.0.0.1 sharefb.cnnd.vn
 127.0.0.1 shop.zalo.me
-127.0.0.1 signup.netflix.com
 127.0.0.1 spell.itim.vn
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 sso.admicro.vn
@@ -383,7 +379,6 @@
 127.0.0.1 trackingapi.foody.vn
 127.0.0.1 trenddigital.vn
 127.0.0.1 truoctran.com
-127.0.0.1 uiboot.netflix.com
 127.0.0.1 uniad.vn
 127.0.0.1 update.drp.su
 127.0.0.1 update.fbsbx.com
@@ -404,7 +399,6 @@
 127.0.0.1 web.f8.pyco.vn
 127.0.0.1 web.stagingf8.pycogroup.com
 127.0.0.1 widget.nhaccuatui.com
-127.0.0.1 www2.netflix.com
 127.0.0.1 www-google-analytics.l.google.com
 127.0.0.1 www-googletagmanager.l.google.com
 127.0.0.1 www.adblox.net
