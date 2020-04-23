@@ -1,128 +1,134 @@
 #EXTM3U TEST
-#EXTINF:-1,HBO HD
-udp://@225.1.2.232:30120
+#EXTINF:-1,VTV1 HD
+udp://@225.1.2.249:30120
+#EXTINF:-1,VTV2 HD
+udp://@225.1.2.13:30120
+#EXTINF:-1,VTV3 HD
+udp://@225.1.2.247:30120
+#EXTINF:-1,VTV4 HD
+udp://@225.1.2.20:30120
+#EXTINF:-1,VTV5 HD
+udp://@225.1.1.131:30120
+#EXTINF:-1,VTV6 HD
+udp://@225.1.2.245:30120
+#EXTINF:-1,VTV7 HD
+udp://@225.1.2.97:30120
+#EXTINF:-1,VTV8 HD
+udp://@225.1.2.166:30120
+#EXTINF:-1,VTV9 HD
+udp://@225.1.1.128:30120
 #EXTINF:-1,HBO HD
 udp://@225.1.2.233:30120
+#EXTINF:-1,Warner Bros TV
+udp://@225.1.1.139:30120
+#EXTINF:-1,FOX HD
+udp://@225.1.1.51:30120
 #EXTINF:-1,MAX by HBO HD
 udp://@225.1.2.86:30120
-#EXTINF:-1,MAX by HBO HD
-udp://@225.1.2.91:30120
-#EXTINF:-1,Star Movies HD
-udp://@225.1.2.238:30120
-#EXTINF:-1,Star Movies HD
+#EXTINF:-1,FOX Movie
 udp://@225.1.2.239:30120
 #EXTINF:-1,AXN HD
-udp://@225.1.2.224:30120
-#EXTINF:-1,AXN HD
 udp://@225.1.2.225:30120
+#EXTINF:-1,Discovery HD World
+udp://@225.1.1.238:30120
+#EXTINF:-1,Cartoon Network HD
+udp://@225.1.2.231:30120
+#EXTINF:-1,Channel News Asia
+udp://@225.1.1.202:30120
+#EXTINF:-1,Channel [V] HD
+udp://@225.1.1.188:30120
+#EXTINF:-1,Cinema World
+udp://@225.1.1.142:30120
+#EXTINF:-1,Da Vinci Learning HD
+udp://@225.1.1.197:30120
+#EXTINF:-1,Discovery Asia HD
+udp://@225.1.2.223:30120
+#EXTINF:-1,Disney Channel HD
+udp://@225.1.2.158:30120
+#EXTINF:-1,Disney Junior
+udp://@225.1.1.233:30120
+#EXTINF:-1,Diva
+udp://@225.1.1.199:30120
+#EXTINF:-1,DW HD
+udp://@225.1.1.46:30120
+#EXTINF:-1,Fashion TV 1
+udp://@225.1.2.227:30120
+#EXTINF:-1,Fashion TV 2
+udp://@225.1.2.232:30120
+#EXTINF:-1,Fashion TV 3
+udp://@225.1.2.234:30120
 #EXTINF:-1,BBC Earth
 udp://@225.1.2.24:30120
 #EXTINF:-1,BBC Lifestyle
 udp://@225.1.2.52:30120
 #EXTINF:-1,BBC World News
 udp://@225.1.2.74:30120
-#EXTINF:-1,Discovery HD World
-udp://@225.1.1.238:30120
-#EXTINF:-1,Cartoon Network HD
-udp://@225.1.2.230:30120
-#EXTINF:-1,Cartoon Network HD
-udp://@225.1.2.231:30120
-#EXTINF:-1,Channel News Asia
-udp://@225.1.1.202:30120
-#EXTINF:-1,Channel [V] HD
-udp://@225.1.1.187:30120
-#EXTINF:-1,Channel [V] HD
-udp://@225.1.1.188:30120
-#EXTINF:-1,Cinema World
-udp://@225.1.1.142:30120
+#EXTINF:-1,Fox Sports HD
+udp://@225.1.2.229:30120
+#EXTINF:-1,Fox Sports 2 HD
+udp://@225.1.1.141:30120
+#EXTINF:-1,France 24
+udp://@225.1.2.211:30120
+#EXTINF:-1,National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:-1,NHK World HD
+udp://@225.1.1.47:30120
+#EXTINF:-1,Outdoor Channel HD
+udp://@225.1.2.215:30120
+#EXTINF:-1,RED by HBO HD
+udp://@225.1.1.93:30120
+#EXTINF:-1,Fox Life HD
+udp://@225.1.2.237:30120
+#EXTINF:-1,TLC
+udp://@225.1.1.236:30120
+#EXTINF:-1,TV5Monde Asia
+udp://@225.1.1.200:30120
+#EXTINF:-1,Babytv
+udp://@225.1.2.146:30120
+#EXTINF:-1,KIX HD
+udp://@225.1.2.144:30120
+#EXTINF:-1,MTV
+udp://@225.1.1.245:30120
+#EXTINF:-1,Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:-1,Arirang
+udp://@225.1.1.201:30120
+#EXTINF:-1,Asian Food Network
+udp://@225.1.1.198:30120
+#EXTINF:-1,Australia Plus
+udp://@225.1.2.21:30120
 #EXTINF:-1,CNBC
 udp://@225.1.1.227:30120
 #EXTINF:-1,CNN
 udp://@225.1.1.242:30120
-#EXTINF:-1,VTV1 HD
-udp://@225.1.2.248:30120
-#EXTINF:-1,VTV1 HD
-udp://@225.1.2.249:30120
-#EXTINF:-1,VTV2 HD
-udp://@225.1.2.14:30120
-#EXTINF:-1,VTV2 HD
-udp://@225.1.2.13:30120
-#EXTINF:-1,VTV3 HD
-udp://@225.1.2.246:30120
-#EXTINF:-1,VTV3 HD
-udp://@225.1.2.247:30120
-#EXTINF:-1,VTV4 HD
-udp://@225.1.1.211:30120
-#EXTINF:-1,VTV4 HD
-udp://@225.1.2.20:30120
-#EXTINF:-1,VTV5 HD
-udp://@225.1.1.129:30120
-#EXTINF:-1,VTV5 HD
-udp://@225.1.1.131:30120
-#EXTINF:-1,VTV6 HD
-udp://@225.1.2.244:30120
-#EXTINF:-1,VTV6 HD
-udp://@225.1.2.245:30120
-#EXTINF:-1,VTV7 HD
-udp://@225.1.2.96:30120
-#EXTINF:-1,VTV7 HD
-udp://@225.1.2.97:30120
-#EXTINF:-1,VTV8 HD
-udp://@225.1.2.142:30120
-#EXTINF:-1,VTV8 HD
-udp://@225.1.2.166:30120
-#EXTINF:-1,VTV9 HD
-udp://@225.1.1.126:30120
-#EXTINF:-1,VTV9 HD
-udp://@225.1.1.128:30120
 #EXTINF:-1,HTV1
 udp://@225.1.1.1:30120
 #EXTINF:-1,HTV1
 udp://@225.1.1.180:30120
-#EXTINF:-1,HTV1
-udp://@225.1.2.11:30120
-#EXTINF:-1,HTV2
-udp://@225.1.1.179:30120
 #EXTINF:-1,HTV2 HD
 udp://@225.1.1.193:30120
 #EXTINF:-1,HTV3
 udp://@225.1.1.178:30120
 #EXTINF:-1,HTV4
 udp://@225.1.1.177:30120
-#EXTINF:-1,HTV7
-udp://@225.1.1.176:30120
-#EXTINF:-1,HTV7 HD
-udp://@225.1.1.191:30120
 #EXTINF:-1,HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:-1,HTV9
-udp://@225.1.1.175:30120
-#EXTINF:-1,HTV9 HD
-udp://@225.1.1.189:30120
 #EXTINF:-1,HTV9 HD
 udp://@225.1.1.190:30120
 #EXTINF:-1,HTV Thể Thao
 udp://@225.1.1.165:30120
 #EXTINF:-1,HTVC Du Lịch và Cuộc Sống
 udp://@225.1.1.166:30120
-#EXTINF:-1,HTVC FBNC
-udp://@225.1.1.169:30120
-#EXTINF:-1,HTVC FBNC HD
-udp://@225.1.1.181:30120
 #EXTINF:-1,HTVC FBNC HD
 udp://@225.1.1.182:30120
 #EXTINF:-1,HTVC Gia Đình
 udp://@225.1.1.170:30120
-#EXTINF:-1,HTVC Phim - Paramount Channel HD
-udp://@225.1.1.183:30120
 #EXTINF:-1,HTVC Phim - Paramount Channel HD
 udp://@225.1.1.184:30120
 #EXTINF:-1,HTVC Phụ Nữ
 udp://@225.1.1.171:30120
 #EXTINF:-1,HTVC Shopping - VGS Shop
 udp://@225.1.1.172:30120
-#EXTINF:-1,HTVC Thuần Việt HD
-udp://@225.1.1.185:30120
 #EXTINF:-1,HTVC Thuần Việt HD
 udp://@225.1.1.186:30120
 #EXTINF:-1,VTC1 HD
@@ -337,105 +343,3 @@ udp://@225.1.1.154:30120
 udp://@225.1.2.99:30120
 #EXTINF:-1,Yên Bái
 udp://@225.1.1.39:30120
-#EXTINF:-1,Da Vinci Learning HD
-udp://@225.1.1.197:30120
-#EXTINF:-1,Da Vinci Learning HD
-udp://@225.1.2.253:30120
-#EXTINF:-1,Discovery Asia HD
-udp://@225.1.2.222:30120
-#EXTINF:-1,Discovery Asia HD
-udp://@225.1.2.223:30120
-#EXTINF:-1,Disney Channel HD
-udp://@225.1.2.158:30120
-#EXTINF:-1,Disney Channel HD
-udp://@225.1.2.160:30120
-#EXTINF:-1,Disney Junior
-udp://@225.1.1.233:30120
-#EXTINF:-1,Diva
-udp://@225.1.1.199:30120
-#EXTINF:-1,DW HD
-udp://@225.1.1.46:30120
-#EXTINF:-1,Fashion TV HD
-udp://@225.1.2.226:30120
-#EXTINF:-1,Fashion TV HD
-udp://@225.1.2.227:30120
-#EXTINF:-1,Fox Sports HD
-udp://@225.1.2.228:30120
-#EXTINF:-1,Fox Sports HD
-udp://@225.1.2.229:30120
-#EXTINF:-1,Fox Sports 2 HD
-udp://@225.1.1.108:30120
-#EXTINF:-1,Fox Sports 2 HD
-udp://@225.1.1.141:30120
-#EXTINF:-1,France 24
-udp://@225.1.2.211:30120
-#EXTINF:-1,GEM HD
-udp://@225.1.1.17:30120
-#EXTINF:-1,GEM HD
-udp://@225.1.1.60:30120
-#EXTINF:-1,FOX HD
-udp://@225.1.1.51:30120
-#EXTINF:-1,FOX HD
-udp://@225.1.1.52:30120
-#EXTINF:-1,National Geographic HD
-udp://@225.1.2.234:30120
-#EXTINF:-1,National Geographic HD
-udp://@225.1.2.235:30120
-#EXTINF:-1,NHK World HD
-udp://@225.1.1.47:30120
-#EXTINF:-1,Outdoor Channel HD
-udp://@225.1.2.214:30120
-#EXTINF:-1,Outdoor Channel HD
-udp://@225.1.2.215:30120
-#EXTINF:-1,RED by HBO HD
-udp://@225.1.1.89:30120
-#EXTINF:-1,RED by HBO HD
-udp://@225.1.1.93:30120
-#EXTINF:-1,Fox Life HD
-udp://@225.1.2.236:30120
-#EXTINF:-1,Fox Life HD
-udp://@225.1.2.237:30120
-#EXTINF:-1,TLC
-udp://@225.1.1.236:30120
-#EXTINF:-1,Toonami HD
-udp://@225.1.2.163:30120
-#EXTINF:-1,Toonami HD
-udp://@225.1.2.220:30120
-#EXTINF:-1,TV5Monde Asia
-udp://@225.1.1.200:30120
-#EXTINF:-1,Warner Bros TV
-udp://@225.1.1.139:30120
-#EXTINF:-1,Fashion
-udp://@225.1.1.20:30120
-#EXTINF:-1,Kenh truc tiep
-udp://@225.1.1.13:30120
-#EXTINF:-1,Babytv
-udp://@225.1.2.146:30120
-#EXTINF:-1,Babytv
-udp://@225.1.2.147:30120
-#EXTINF:-1,G Channel - SCTV4
-udp://@225.1.2.187:30120
-#EXTINF:-1,N/A
-udp://@225.1.2.100:30120
-#EXTINF:-1,KIX HD
-udp://@225.1.2.144:30120
-#EXTINF:-1,KIX HD
-udp://@225.1.2.145:30120
-#EXTINF:-1,VITV
-udp://@225.1.2.143:30120
-#EXTINF:-1,BBC Earth HD
-udp://@225.1.2.25:30120
-#EXTINF:-1,Warner Bros TV HD
-udp://@225.1.1.140:30120
-#EXTINF:-1,MTV
-udp://@225.1.1.245:30120
-#EXTINF:-1,Animal Planet
-udp://@225.1.1.231:30120
-#EXTINF:-1,Arirang
-udp://@225.1.1.201:30120
-#EXTINF:-1,Asian Food Channel HD
-udp://@225.1.1.198:30120
-#EXTINF:-1,Asian Food Channel HD
-udp://@225.1.2.98:30120
-#EXTINF:-1,Australia Plus
-udp://@225.1.2.21:30120
